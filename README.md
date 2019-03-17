@@ -20,6 +20,8 @@ make
 ```
 So, it starts...:smile:
 
+In the terminal that opened `client` , you can **send a message to Server**, and the terminal that opened `server` will receive the message from `client` , and you can reply, too!
+
 ## The Last Words
 
 Thanks every coder can spent your time at my little project, so if you want, please **follow me or star or fork this projects**, I'll work harder.:thinking:
