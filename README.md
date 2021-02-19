@@ -3,7 +3,7 @@ This is a very easy p2p chat program, build by C.
 
 ## Self-Introduction
 
-> If you want to improve your ability at *Linux-Web-Coding*, you must learn: **TCP, Socket and p2p**.
+> If you want to improve your ability at *Linux-Web Coding*, you must learn: **TCP, Socket and p2p**.
 
 This is a program that acheives p2p chat function, it's very simple. This program called *Hello Talk* and **it just acheives a few functions**, hope *Linuxers* let it more functional.
 
