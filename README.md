@@ -12,7 +12,7 @@ This is a program that acheives p2p chat function, it's very simple. This progra
 **Very simple**. You just **code the following commands in terminals** to start it:
 
 ```c
-cd /The/Path/That/You/Have/Dowload
+cd /The/Path/That/You/Have/Dowloaded
 make
 ./server     
 //Then, open a new terminal
